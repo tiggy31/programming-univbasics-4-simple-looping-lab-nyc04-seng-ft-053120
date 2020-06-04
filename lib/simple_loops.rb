@@ -10,3 +10,10 @@ def loop_message_n_times(string,integer)
   
   integer.times {puts string}
 end
+
+def output_array (array)
+  counter = 0
+  while counter[array] do 
+    puts coutner[array]
+    counter += 1
+end
