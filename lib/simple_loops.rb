@@ -19,5 +19,5 @@ end
 
 def return_string_array(array)
   
-  array.each { |i.to_s| puts array}
+  array.to_s.each { |i| puts array}
 end
