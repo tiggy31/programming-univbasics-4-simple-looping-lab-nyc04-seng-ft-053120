@@ -14,6 +14,6 @@ end
 def output_array (array)
   counter = 0
   while counter[array] do 
-    puts coutner[array]
+    puts counter[array]
     counter += 1
 end
