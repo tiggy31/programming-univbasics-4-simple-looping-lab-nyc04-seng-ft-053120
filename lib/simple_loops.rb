@@ -13,7 +13,7 @@ end
 
 def output_array (array)
 
-  while counter[array] do 
+  while counter <= array.length do 
     puts counter[array]
     counter += 1
 end
