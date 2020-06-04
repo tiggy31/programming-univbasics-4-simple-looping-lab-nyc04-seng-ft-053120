@@ -13,5 +13,5 @@ end
 
 def output_array(array)
   
-  array.each { |i| puts array
+  array.each { |i| puts array}
 end
