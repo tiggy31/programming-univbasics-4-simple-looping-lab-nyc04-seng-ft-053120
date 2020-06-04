@@ -11,3 +11,7 @@ def loop_message_n_times(string,integer)
   integer.times {puts string}
 end
 
+def output_array(array)
+  
+  array.each
+end
